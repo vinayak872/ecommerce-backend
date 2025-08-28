@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Dell\OneDrive\Desktop\CICD\ecommerce-backend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+605167502.index
+684362140.index
+1049571739.index
+2290215115.index
+1165254683.index
+627763704.index
